@@ -1,0 +1,35 @@
+
+/* 	2 eksempler hvor formatering 
+	er added direkte på html-tags: 
+	*/
+
+body{
+	background-color: white;
+}
+img{
+	width: 35%;
+}
+
+/* 	Content omgiver alt i body.
+	CSS gør objekter mindre end 
+	selve body, samt centerer indholdet.
+	*/
+	
+#content {
+	width: 80%;
+	margin: auto;
+}
+
+#text{
+	background-color: yellow;
+}
+
+#list{
+	background-color: red;
+}
+
+/* 	Bredden sættes til 100% af body */
+
+#button{
+	width: 100%;
+}
